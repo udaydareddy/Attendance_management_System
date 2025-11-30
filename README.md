@@ -120,16 +120,3 @@ http://localhost:5173
 
 
 
-
-
-Login page
-
-Employee Dashboard
-
-Manager Dashboard
-
-Weekly trend chart
-
-Team attendance calendar
-
-
